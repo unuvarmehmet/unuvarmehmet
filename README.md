@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mehmet and i learn something in GIS every day
+I'm Mehmet and I learn something in GIS every day
 
 [<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=unuvarmehmet&show_icons=true"/>](https://github.com/unuvarmehmet/)
 
